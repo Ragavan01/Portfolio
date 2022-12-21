@@ -75,7 +75,7 @@ class About extends React.Component{
                                     <tbody>
                                         <tr>
                                             <td>Full Stack web development</td>
-                                            <td>React js , Node js , Jsp</td>
+                                            <td>React js , Node js</td>
                                             <td><a href="https://impakto185.000webhostapp.com/" target="_blank" rel="noreferrer">Impakto18.5</a></td>
                                         </tr>
                                         <tr>
@@ -85,7 +85,7 @@ class About extends React.Component{
                                         </tr>
                                         <tr>
                                             <td>Full Stack web development</td>
-                                            <td>React js , Node js , Jsp </td>
+                                            <td>React js , Node js</td>
                                             <td><a href="https://github.com/Ragavan01/Projects/" target="_blank" rel="noreferrer">Sympo Project</a></td>
                                         </tr>
                                     </tbody>
@@ -110,19 +110,19 @@ class About extends React.Component{
                                             <td>B.tech CSBS</td>
                                             <td>Sethu institute of technology</td>
                                             <td>2024</td>
-                                            <td>100</td>
+                                            <td>99%d>
                                         </tr>
                                         <tr>
-                                            <td>12th</td>
+                                            <td>HSC</td>
                                             <td>TVK Corp hr sec school</td>
                                             <td>2020</td>
-                                            <td>100</td>
+                                            <td>50.67%</td>
                                         </tr>
                                         <tr>
-                                            <td>10th</td>
+                                            <td>SSLC</td>
                                             <td>TVK Corp hr sec school</td>
                                             <td>2018</td>
-                                            <td>100</td>
+                                            <td>72.4%</td>
                                         </tr>
                                     </tbody>
                                 </table>
