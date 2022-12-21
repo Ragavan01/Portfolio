@@ -80,12 +80,6 @@ class Home extends React.Component{
                                     <li>
                                         I done Digital Marketing in <a href="https://www.edureka.co/">Edureka</a>
                                     </li>
-                                    <li>
-                                        I done in android development.
-                                    </li>
-                                    <li>
-                                        I done in Product Management.
-                                    </li>
                                 </ul>
                             </div>
                             <div className="col-sm-12">
